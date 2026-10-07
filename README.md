@@ -12,8 +12,6 @@ Related projects:
 | [artix-post-install](https://github.com/mrwingkong/artix-post-install) | Optional desktop polish + ThinkPad / your hardware |
 | **This one** — [artix-portix](https://github.com/mrwingkong/artix-portix) | Optional Porteus-style `.xzm` modules and `pman` |
 
-> Draft: these GitHub links are the planned names. Publish only after you say go.
-
 ## Who is this for?
 
 Anyone who finished a working Artix OpenRC desktop (from **[artix-base-install](https://github.com/mrwingkong/artix-base-install)**) and wants modular apps.
